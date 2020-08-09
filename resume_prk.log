@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.27)  27 MAR 2020 09:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.27)  9 AUG 2020 16:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1022,13 +1022,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-<github-logo.png, id=9, 983.675pt x 754.82pt>
+<github-logo.png, id=41, 983.675pt x 754.82pt>
 File: github-logo.png Graphic file (type png)
 <use github-logo.png>
 Package pdftex.def Info: github-logo.png  used on input line 24.
 (pdftex.def)             Requested size: 14.33421pt x 11.0pt.
 \makecvheadpicturebox=\box63
-<picture.png, id=12, 297.11pt x 397.485pt>
+<picture.png, id=44, 297.11pt x 397.485pt>
 File: picture.png Graphic file (type png)
 <use picture.png>
 Package pdftex.def Info: picture.png  used on input line 24.
@@ -1062,96 +1062,100 @@ l.30 ... AirBnB-like clone and a Rails prototype.}
                                                   
 ? 
 
-Package hyperref Warning: Suppressing link with empty target on input line 33.
+Package hyperref Warning: Suppressing link with empty target on input line 32.
 
+<dp-logo.png, id=48, 102.3825pt x 102.3825pt>
+File: dp-logo.png Graphic file (type png)
+<use dp-logo.png>
+Package pdftex.def Info: dp-logo.png  used on input line 38.
+(pdftex.def)             Requested size: 9.99982pt x 10.0pt.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 40.
-<ship-antiques-logo.png, id=16, 115.632pt x 130.086pt>
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 43.
+<ship-antiques-logo.png, id=50, 115.632pt x 130.086pt>
 File: ship-antiques-logo.png Graphic file (type png)
 <use ship-antiques-logo.png>
-Package pdftex.def Info: ship-antiques-logo.png  used on input line 40.
+Package pdftex.def Info: ship-antiques-logo.png  used on input line 43.
 (pdftex.def)             Requested size: 8.88727pt x 10.0pt.
-<bobato-logo.png, id=18, 100.375pt x 99.37125pt>
+<bobato-logo.png, id=52, 100.375pt x 99.37125pt>
 File: bobato-logo.png Graphic file (type png)
 <use bobato-logo.png>
-Package pdftex.def Info: bobato-logo.png  used on input line 40.
+Package pdftex.def Info: bobato-logo.png  used on input line 43.
 (pdftex.def)             Requested size: 10.10088pt x 10.0pt.
-./resume_prk.tex:40: Misplaced alignment tab character &.
+./resume_prk.tex:43: Misplaced alignment tab character &.
 <argument> ...textit {PlanBidon:} Tested, traced &
                                                    engaged bike trip itinera...
-l.40 ...phics[height=10pt]{plan-bidon-logo.png}}}}
+l.43 ...phics[height=10pt]{plan-bidon-logo.png}}}}
                                                   
 ? 
-<plan-bidon-logo.png, id=20, 112.92188pt x 112.92188pt>
+<plan-bidon-logo.png, id=54, 112.92188pt x 112.92188pt>
 File: plan-bidon-logo.png Graphic file (type png)
 <use plan-bidon-logo.png>
-Package pdftex.def Info: plan-bidon-logo.png  used on input line 40.
+Package pdftex.def Info: plan-bidon-logo.png  used on input line 43.
 (pdftex.def)             Requested size: 9.99883pt x 10.0pt.
-./resume_prk.tex:61: Undefined control sequence.
+./resume_prk.tex:62: Undefined control sequence.
 <argument>  \pl 
-                {ES6 JavaScript}, \pl {Ruby on Rails}, HTML, CSS, Bootstrap,...
-l.61      {\LaTeX}.}
+                {ES6 JavaScript}, \pl {Vue}, \pl {Ruby on Rails}, HTML, SCSS...
+l.62      {\LaTeX}.}
                     
 ? 
-./resume_prk.tex:61: Undefined control sequence.
+./resume_prk.tex:62: Undefined control sequence.
 <argument>  \pl {ES6 JavaScript}, \pl 
-                                      {Ruby on Rails}, HTML, CSS, Bootstrap,...
-l.61      {\LaTeX}.}
+                                      {Vue}, \pl {Ruby on Rails}, HTML, SCSS...
+l.62      {\LaTeX}.}
                     
 ? 
-./resume_prk.tex:67: Undefined control sequence.
+./resume_prk.tex:62: Undefined control sequence.
+<argument>  \pl {ES6 JavaScript}, \pl {Vue}, \pl 
+                                                 {Ruby on Rails}, HTML, SCSS...
+l.62      {\LaTeX}.}
+                    
+? 
+./resume_prk.tex:68: Undefined control sequence.
 <argument> ...ing you to find your dream job. \pl 
                                                   {Ruby} (Rails). \href {htt...
-l.67 ...ludegraphics[height=10pt]{link-logo.png}}}
+l.68 ...ludegraphics[height=10pt]{link-logo.png}}}
                                                   
 ? 
-<youtube-logo.png, id=22, 721.69624pt x 507.8975pt>
+<youtube-logo.png, id=56, 721.69624pt x 507.8975pt>
 File: youtube-logo.png Graphic file (type png)
 <use youtube-logo.png>
-Package pdftex.def Info: youtube-logo.png  used on input line 67.
+Package pdftex.def Info: youtube-logo.png  used on input line 68.
 (pdftex.def)             Requested size: 14.2057pt x 10.0pt.
-<link-logo.png, id=24, 385.44pt x 385.44pt>
+<link-logo.png, id=58, 385.44pt x 385.44pt>
 File: link-logo.png Graphic file (type png)
 <use link-logo.png>
-Package pdftex.def Info: link-logo.png  used on input line 67.
+Package pdftex.def Info: link-logo.png  used on input line 68.
 (pdftex.def)             Requested size: 9.99826pt x 10.0pt.
-./resume_prk.tex:70: Undefined control sequence.
+./resume_prk.tex:71: Undefined control sequence.
 <argument> ...ook islands all over the world. \pl 
                                                   {Ruby} (Rails). \href {htt...
-l.70 ...ludegraphics[height=10pt]{link-logo.png}}}
+l.71 ...ludegraphics[height=10pt]{link-logo.png}}}
                                                   
 ? 
 File: link-logo.png Graphic file (type png)
 <use link-logo.png>
-Package pdftex.def Info: link-logo.png  used on input line 70.
+Package pdftex.def Info: link-logo.png  used on input line 71.
 (pdftex.def)             Requested size: 9.99826pt x 10.0pt.
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./githu
-b-logo.png> <./picture.png> <./ship-antiques-logo.png> <./bobato-logo.png> <./p
-lan-bidon-logo.png (PNG copy)> <./youtube-logo.png> <./link-logo.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 76.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 76.
-
-(./resume_prk.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 76.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 76.
-
-
-Package rerunfilecheck Warning: File `resume_prk.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume_prk.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  3E0A9E718859DF513FC858BF8B8A8919;848.
+b-logo.png> <./picture.png> <./dp-logo.png> <./ship-antiques-logo.png> <./bobat
+o-logo.png> <./plan-bidon-logo.png (PNG copy)> <./youtube-logo.png> <./link-log
+o.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
+ (./resume_prk.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
+Package rerunfilecheck Info: File `resume_prk.out' has not changed.
+(rerunfilecheck)             Checksum: 3E0A9E718859DF513FC858BF8B8A8919;848.
  ) 
 Here is how much of TeX's memory you used:
- 31139 strings out of 492616
- 576666 string characters out of 6129480
+ 31155 strings out of 492616
+ 576860 string characters out of 6129480
  638160 words of memory out of 5000000
- 34634 multiletter control sequences out of 15000+600000
- 600700 words of font info for 79 fonts, out of 8000000 for 9000
+ 34647 multiletter control sequences out of 15000+600000
+ 600801 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,15n,65p,776b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
@@ -1162,10 +1166,10 @@ type1/public/lm/lmss8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/publi
 c/lm/lmssbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lms
 so10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsso17.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on resume_prk.pdf (1 page, 547863 bytes).
+Output written on resume_prk.pdf (1 page, 551783 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 112 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
  10 named destinations out of 1000 (max. 500000)
- 20528 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 20597 words of extra memory for PDF output out of 20736 (max. 10000000)
 
