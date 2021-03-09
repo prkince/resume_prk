@@ -9,50 +9,52 @@
 \usepackage[utf8]{inputenc}
 \usepackage[cm]{fullpage}
 \usepackage{layout} 
+\usepackage[nopar]{lipsum}
+\usepackage{graphicx,scalerel}
 
 % personal data
 \name{Pierrick}{Delage}
-\title{Full-Stack Developer}
+\title{Full-Stack Developer => \href{https://delage.dev/} {delage.dev} <=}
 \address{75003 Paris}{France}
 \email{pierrick@delage.dev}
 \homepage{www.delage.dev} 
 \photo[50pt][0.4pt]{picture}
-\extrainfo{\raisebox{-1mm}{\includegraphics[height=11pt]{github-logo.png}} \href{https://github.com/prkince}{github.com/prkince}}
+\extrainfo{\raisebox{-1mm} {\includegraphics[height=11pt]{github-logo.png}} \href{https://github.com/prkince}{github.com/prkince}}
 
 \begin{document}
 
 \makecvtitle
 
-\section{Education}
-\cventry{2019}{\href{https://http://certification.delage.dev/}{Web App Design and Developer Certification}}{\href{https://www.lewagon.com/}{Le Wagon}}{Paris}{\textit{France}} 
-{Intensive coding school learning HTML, CSS, Bootstrap, \pl{JavaScript ES6},
-SQL, git, GitHub, Heroku and \pl{Ruby on Rails}. Designed, implemented and shipped to
-production an AirBnB-like clone and a Rails prototype.} 
-
-\cventry{2007-2008}{Bachelor degree}{\href{}{Business Management School}}{Angouleme}{\textit{France}}{Responsible in International Trade (Post graduate diploma, professional bachelor).}
-
 \section{Work Experience}
 \subsection{Vocational}
 
-\cventry{2020}{Front-End Developer}{DeepReach}{Paris}{}
-{{ Front: VueJS, HTML 5, Sass, Jest, API Rest. Back: Python, Docker, NodeJS, PostgreSQL. \\* Github, Jira, Jenkins, AWS. TDD and Agile software development.} \href{https://www.deepreach.com/}   {\includegraphics[height=10pt]{dp-logo.png}}}
+\cventry{2020-Now}{Front-End Developer}{DeepReach}{Paris}{}
+{{ Front: \textbf{VueJS}, HTML 5, Sass, Jest, API Rest. Back: Python, Docker, NodeJS, PostgreSQL. \\* Github, Jira, Jenkins, AWS. \textbf{TDD and Agile software development.}} \href{https://www.deepreach.com/} {\scalerel*{\includegraphics{dp-logo.png}}{\strut}}}
 
 \cventry{2019-2020}{Freelance Web Developer}{}{Paris}{}
-{{\textit{Ship Antiques:} Design and front end development of the website of the company. \href{https://shipantiques.herokuapp.com/}   {\includegraphics[height=10pt]{ship-antiques-logo.png}}}
-\\*{\textit{Bobato:}  Crafted ship models from the island of Mauritius. Order online and have it shipped to you. \href{https://bobato-prk.herokuapp.com/}   {\includegraphics[height=10pt]{bobato-logo.png}}}
-\\*{\textit{PlanBidon:}  Tested, traced & engaged bike trip itineraries around Paris and (sometimes) further away. \href{https://planbidon.herokuapp.com/}   {\includegraphics[height=10pt]{plan-bidon-logo.png}}}}
+{{\textit{Ship Antiques:} Design and front end development of the website of the company. \href{https://shipantiques.herokuapp.com/}   {\scalerel*{\includegraphics{ship-antiques-logo.png}}{\strut}} }
+\\*{\textit{Bobato:}  Crafted ship models from the island of Mauritius. Order online and have it shipped to you. \href{https://bobato-prk.herokuapp.com/}   {\scalerel*{\includegraphics{bobato-logo.png}}{\strut}} }
+\\*{\textit{PlanBidon:}  Tested, traced \& engaged bike trip itineraries around Paris and (sometimes) further away. \href{https://planbidon.herokuapp.com/}   {\scalerel*{\includegraphics{plan-bidon-logo.png}}{\strut}} }}
 
 
 \subsection{Miscellaneous}
 \cventry{2013-2019}{Import Export Logistics Manager}{Ship Antiques}{Paris}{}{Coordinate all shipping process: pick-up, packing, customs clearance, transportation and worldwide delivery of fine arts and antiques, for import and export.
 \textbf{International clients management, directing/coordinating communication with agents overseas.}}
 
+\section{Education}
+\cventry{2019}{\href{https://github.com/prkince/resume_prk/blob/master/certification_pierrick_delage.pdf}{Web App Design and Developer Certification}}{\href{https://www.lewagon.com/}{Le Wagon}}{Paris}{\textit{France}} 
+{Intensive coding school learning HTML, CSS, Bootstrap, JavaScript ES6,
+SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to
+production an AirBnB-like clone and a Rails prototype.} 
+
+\cventry{2007-2008}{Bachelor degree}{\href{}{Business Management School}}{Angouleme}{\textit{France}}{Responsible in International Trade (Post graduate diploma, professional bachelor).}
+
 \section{Languages}
 \cvline{}{\textit{French: }{Native.}{} \textit{English: }{Professional working proficiency.}{} \textit{Spanish: }{Elementary proficiency.}{}}
 
 \section{Computer skills}
 \cvline{Technical}{
-     \pl{ES6 JavaScript}, \pl{Vue}, \pl{Ruby on Rails},
+     \textbf{ES6 JavaScript}, \textbf{Vue}, \textbf{Ruby on Rails},
      HTML, SCSS, Bootstrap,
      APIs, JSON, scraping,
      Relational databases, SQL, Postgres,
@@ -65,10 +67,10 @@ production an AirBnB-like clone and a Rails prototype.}
 \section{Personal Projects}
 
 \cvitem{Equal path}{
-  A platform helping you to find your dream job. \pl{Ruby} (Rails). \href{https://youtu.be/hb8TT6Z1ptE?t=3828}{\includegraphics[height=10pt]{youtube-logo.png}} \href{http://equal-path.herokuapp.com/}   {\includegraphics[height=10pt]{link-logo.png}}} 
+  A platform helping you to find your dream job. Ruby (Rails). \href{https://youtu.be/hb8TT6Z1ptE?t=3828}  {\scalerel*{\includegraphics{youtube-logo.png}}{\strut}} \href{http://equal-path.herokuapp.com/}   {\scalerel*{\includegraphics{link-logo.png}}{\strut}} } 
 
 \cvitem{Palm}{
-  Palm-travel website allowing you to book islands all over the world. \pl{Ruby} (Rails).  \href{https://airbnb-palm.herokuapp.com/}   {\includegraphics[height=10pt]{link-logo.png}}}
+  Palm-travel website allowing you to book islands all over the world. Ruby (Rails).  \href{https://airbnb-palm.herokuapp.com/}  {\scalerel*{\includegraphics{link-logo.png}}{\strut}} }
 
 \section{Hobbies}
 \cvitem{Sports}{Cycling, Running, Soccer, Skiing.}
