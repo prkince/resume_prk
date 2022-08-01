@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.30)  30 NOV 2021 01:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.30)  2 AUG 2022 01:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -974,71 +974,71 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 <dp-logo.png, id=44, 102.3825pt x 102.3825pt>
 File: dp-logo.png Graphic file (type png)
 <use dp-logo.png>
-Package pdftex.def Info: dp-logo.png  used on input line 32.
+Package pdftex.def Info: dp-logo.png  used on input line 33.
 (pdftex.def)             Requested size: 102.38225pt x 102.38225pt.
 File: dp-logo.png Graphic file (type png)
 <use dp-logo.png>
-Package pdftex.def Info: dp-logo.png  used on input line 32.
+Package pdftex.def Info: dp-logo.png  used on input line 33.
 (pdftex.def)             Requested size: 102.38225pt x 102.38225pt.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 37.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 38.
 <ship-antiques-logo.png, id=46, 115.632pt x 130.086pt>
 File: ship-antiques-logo.png Graphic file (type png)
 <use ship-antiques-logo.png>
-Package pdftex.def Info: ship-antiques-logo.png  used on input line 37.
+Package pdftex.def Info: ship-antiques-logo.png  used on input line 38.
 (pdftex.def)             Requested size: 115.63171pt x 130.08566pt.
 File: ship-antiques-logo.png Graphic file (type png)
 <use ship-antiques-logo.png>
-Package pdftex.def Info: ship-antiques-logo.png  used on input line 37.
+Package pdftex.def Info: ship-antiques-logo.png  used on input line 38.
 (pdftex.def)             Requested size: 115.63171pt x 130.08566pt.
 <bobato-logo.png, id=48, 100.375pt x 99.37125pt>
 File: bobato-logo.png Graphic file (type png)
 <use bobato-logo.png>
-Package pdftex.def Info: bobato-logo.png  used on input line 37.
+Package pdftex.def Info: bobato-logo.png  used on input line 38.
 (pdftex.def)             Requested size: 100.37474pt x 99.371pt.
 File: bobato-logo.png Graphic file (type png)
 <use bobato-logo.png>
-Package pdftex.def Info: bobato-logo.png  used on input line 37.
+Package pdftex.def Info: bobato-logo.png  used on input line 38.
 (pdftex.def)             Requested size: 100.37474pt x 99.371pt.
 <plan-bidon-logo.png, id=50, 112.92188pt x 112.92188pt>
 File: plan-bidon-logo.png Graphic file (type png)
 <use plan-bidon-logo.png>
-Package pdftex.def Info: plan-bidon-logo.png  used on input line 37.
+Package pdftex.def Info: plan-bidon-logo.png  used on input line 38.
 (pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
 File: plan-bidon-logo.png Graphic file (type png)
 <use plan-bidon-logo.png>
-Package pdftex.def Info: plan-bidon-logo.png  used on input line 37.
+Package pdftex.def Info: plan-bidon-logo.png  used on input line 38.
 (pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 51.
 <youtube-logo.png, id=54, 721.69624pt x 507.8975pt>
 File: youtube-logo.png Graphic file (type png)
 <use youtube-logo.png>
-Package pdftex.def Info: youtube-logo.png  used on input line 50.
+Package pdftex.def Info: youtube-logo.png  used on input line 51.
 (pdftex.def)             Requested size: 721.69449pt x 507.89627pt.
 File: youtube-logo.png Graphic file (type png)
 <use youtube-logo.png>
-Package pdftex.def Info: youtube-logo.png  used on input line 50.
+Package pdftex.def Info: youtube-logo.png  used on input line 51.
 (pdftex.def)             Requested size: 721.69449pt x 507.89627pt.
 <link-logo.png, id=56, 385.44pt x 385.44pt>
 File: link-logo.png Graphic file (type png)
 <use link-logo.png>
-Package pdftex.def Info: link-logo.png  used on input line 50.
+Package pdftex.def Info: link-logo.png  used on input line 51.
 (pdftex.def)             Requested size: 385.43906pt x 385.43906pt.
 File: link-logo.png Graphic file (type png)
 <use link-logo.png>
-Package pdftex.def Info: link-logo.png  used on input line 50.
+Package pdftex.def Info: link-logo.png  used on input line 51.
 (pdftex.def)             Requested size: 385.43906pt x 385.43906pt.
 File: link-logo.png Graphic file (type png)
 <use link-logo.png>
-Package pdftex.def Info: link-logo.png  used on input line 50.
+Package pdftex.def Info: link-logo.png  used on input line 51.
 (pdftex.def)             Requested size: 385.43906pt x 385.43906pt.
 File: link-logo.png Graphic file (type png)
 <use link-logo.png>
-Package pdftex.def Info: link-logo.png  used on input line 50.
+Package pdftex.def Info: link-logo.png  used on input line 51.
 (pdftex.def)             Requested size: 385.43906pt x 385.43906pt.
 
-Package hyperref Warning: Suppressing link with empty target on input line 52.
+Package hyperref Warning: Suppressing link with empty target on input line 53.
 
 [1
 
@@ -1046,18 +1046,15 @@ Package hyperref Warning: Suppressing link with empty target on input line 52.
 b-logo.png> <./picture.png> <./dp-logo.png> <./ship-antiques-logo.png> <./bobat
 o-logo.png> <./plan-bidon-logo.png (PNG copy)> <./youtube-logo.png> <./link-log
 o.png>] (./resume_prk.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `resume_prk.out' has not changed.
 (rerunfilecheck)             Checksum: A062B138FBA035B6F36CB00873150180;717.
  ) 
 Here is how much of TeX's memory you used:
- 22336 strings out of 478994
- 410748 string characters out of 5858183
- 838527 words of memory out of 5000000
+ 22340 strings out of 478994
+ 410798 string characters out of 5858183
+ 838599 words of memory out of 5000000
  39274 multiletter control sequences out of 15000+600000
- 474525 words of font info for 108 fonts, out of 8000000 for 9000
+ 474727 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,18n,116p,432b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
@@ -1068,7 +1065,7 @@ type1/public/lm/lmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/publi
 c/lm/lmssbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lms
 so10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsso17.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on resume_prk.pdf (1 page, 553983 bytes).
+Output written on resume_prk.pdf (1 page, 554247 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  83 compressed objects within 1 object stream
